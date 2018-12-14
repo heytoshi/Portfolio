@@ -46,3 +46,21 @@
 [More Details](https://github.com/heytoshi/3D-MazeRunner/blob/master/README.md)
 
 ***
+
+### Shortest Path Algorithm
+
+#### Individual Assignment
+
+*College-Wide Learning Goals*
+
++ Creativity
+
+*Computer Science Learning Goals* 
+
++ To	develop	effective	problem	solving	skills
+
+[Reflection](https://github.com/heytoshi/3D-MazeRunner/blob/master/PORTFOLIO.md)
+
+[More Details](https://github.com/heytoshi/3D-MazeRunner/blob/master/README.md)
+
+***
