@@ -59,8 +59,8 @@
 
 + To	develop	effective	problem	solving	skills
 
-[Reflection](https://github.com/heytoshi/3D-MazeRunner/blob/master/PORTFOLIO.md)
+[Reflection](https://github.com/heytoshi/Shortest-Path/blob/master/PORTFOLIO.md)
 
-[More Details](https://github.com/heytoshi/3D-MazeRunner/blob/master/README.md)
+[More Details](https://github.com/heytoshi/Shortest-Path/blob/master/README.md)
 
 ***
