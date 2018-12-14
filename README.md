@@ -5,4 +5,5 @@
 
 |College-Wide Learning Goals         | Computer Science Learning Goals        |
 |----------------------------------- |:--------------------------------------:| 
-|To	understand	the	concepts	and	 techniques	of	object-oriented software	design | |
+|To	understand	the	concepts	and	 
+techniques	of	object-oriented software	design | |
