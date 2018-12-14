@@ -17,7 +17,7 @@
 
 ***
 
-[2D-Platformer [Second Assignment]](https://github.com/heytoshi/2D-Platformer)
+[3D-MazeRunner [Second Assignment]](https://github.com/heytoshi/2D-Platformer)
 
 *College-Wide Learning Goals*
 
