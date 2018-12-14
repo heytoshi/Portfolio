@@ -76,6 +76,8 @@
 *Computer Science Learning Goals* 
 
 + To	attain	a	system	level	understanding	of	the	computer
++ To	acquire	significant	project	experience	working	both	individually	and	in	a	
+group	setting
 
 [Reflection](https://github.com/heytoshi/ChatRoomProject/blob/master/PORTFOLIO.md)
 
