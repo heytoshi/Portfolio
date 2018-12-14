@@ -52,7 +52,7 @@
 
 *College-Wide Learning Goals*
 
-+ Creativity
++ Critical Thinking
 
 *Computer Science Learning Goals* 
 
