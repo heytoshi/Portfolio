@@ -3,7 +3,7 @@
 
 ***
 
-[2D-Platformer (Click here for Reflection)]](https://github.com/heytoshi/2D-Platformer/blob/master/PORTFOLIO.md)
+[2D-Platformer (Click here for Reflection)](https://github.com/heytoshi/2D-Platformer/blob/master/PORTFOLIO.md)
 
 *College-Wide Learning Goals*
 
