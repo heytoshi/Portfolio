@@ -5,8 +5,8 @@
 
 *College-Wide Learning Goals*
 
-⋅⋅* Creativity
++ Creativity
  
  *Computer Science Learning Goals* 
  
-⋅⋅* To	understand	the	concepts	and	techniques	of software	design
++ To	understand	the	concepts	and	techniques	of software	design
