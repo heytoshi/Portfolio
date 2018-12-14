@@ -3,7 +3,7 @@
 
 ***
 
-[Assignment](https://github.com/heytoshi/2D-Platformer)
+[2D-Platformer [First Assignment]](https://github.com/heytoshi/2D-Platformer)
 
 *College-Wide Learning Goals*
 
