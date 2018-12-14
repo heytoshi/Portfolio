@@ -7,22 +7,24 @@
 
 #### (Individual Project)
 
-    *College-Wide Learning Goals*
+*College-Wide Learning Goals*
 
-    + Creativity
++ Creativity
  
-    *Computer Science Learning Goals* 
+*Computer Science Learning Goals* 
  
-    + To	understand	the	concepts	and	techniques	of software	design
-    + To	attain	a	system	level	understanding	of	the	computer
+ + To	understand the concepts	and techniques of software design
+ + To	attain a	system level understanding	of	the computer
 
-    [Reflection](https://github.com/heytoshi/2D-Platformer/blob/master/PORTFOLIO.md)
+[Reflection](https://github.com/heytoshi/2D-Platformer/blob/master/PORTFOLIO.md)
 
-    [More Details](https://github.com/heytoshi/2D-Platformer/blob/master/README.md)
+[More Details](https://github.com/heytoshi/2D-Platformer/blob/master/README.md)
 
 ***
 
-[3D-MazeRunner [Second Assignment]](https://github.com/heytoshi/2D-Platformer)
+### 3D-MazeRunner-Game for Windows
+
+#### (Group Project)
 
 *College-Wide Learning Goals*
 
@@ -38,5 +40,9 @@
 + To	acquire	significant	project	experience	working	both	individually	and	in	a	
  group	setting
 + To	develop	effective	problem	solving	skills
+
+[Reflection](https://github.com/heytoshi/3D-MazeRunner/blob/master/PORTFOLIO.md)
+
+[More Details](https://github.com/heytoshi/3D-MazeRunner/blob/master/README.md)
 
 ***
