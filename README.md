@@ -40,7 +40,7 @@
  group	setting
 + To	develop	effective	problem	solving	skills
 
-[Artifact] (https://github.com/heytoshi/3D-MazeRunner)
+[Artifact](https://github.com/heytoshi/3D-MazeRunner)
 
 [Reflection](https://github.com/heytoshi/3D-MazeRunner/blob/master/PORTFOLIO.md)
 
