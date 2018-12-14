@@ -22,7 +22,10 @@
 *College-Wide Learning Goals*
 
 + Creativity
- 
++ Collaboration
++ Critical Thinking
++ Communication
+
  *Computer Science Learning Goals* 
  
 + To	understand	the	concepts	and	techniques	of software	design
