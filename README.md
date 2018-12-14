@@ -83,3 +83,22 @@ group	setting
 [More Details](https://github.com/heytoshi/ChatRoomProject/blob/master/README.md)
 
 ***
+
+### An interpreter for Scheme
+
+#### Group Assignment
+
+*College-Wide Learning Goals*
+
++ Critical Thinking
+
+*Computer Science Learning Goals* 
+
++ To	understand	the	concepts	and	techniques	of	object-oriented software	design.
++ To	develop	effective	problem	solving	skills.
+
+[Reflection](https://github.com/heytoshi/An-interpreter-for-Scheme/blob/master/PORTFOLIO.md)
+
+[More Details](https://github.com/heytoshi/An-interpreter-for-Scheme/blob/master/README.md)
+
+***
