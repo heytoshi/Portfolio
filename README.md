@@ -3,7 +3,7 @@
 
 ***
 
-[2D-Platformer [First Assignment]](https://github.com/heytoshi/2D-Platformer)
+[2D-Platformer [First Assignment <- Click Here]](https://github.com/heytoshi/2D-Platformer/blob/master/PORTFOLIO.md)
 
 *College-Wide Learning Goals*
 
@@ -13,6 +13,8 @@
  
 + To	understand	the	concepts	and	techniques	of software	design
 + To	attain	a	system	level	understanding	of	the	computer
+
+[More Details](https://github.com/heytoshi/2D-Platformer/blob/master/README.md)
 
 ***
 
