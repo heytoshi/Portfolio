@@ -15,7 +15,9 @@
  
 + To	understand	the	concepts	and	techniques	of software	design
 + To	attain	a	system	level	understanding	of	the	computer
+
 [Reflection](https://github.com/heytoshi/2D-Platformer/blob/master/PORTFOLIO.md)
+
 [More Details](https://github.com/heytoshi/2D-Platformer/blob/master/README.md)
 
 ***
