@@ -24,7 +24,7 @@
 
 ### 3D-MazeRunner-Game for Windows
 
-#### (Group Project)
+#### Group Project/Individual
 
 *College-Wide Learning Goals*
 
@@ -62,5 +62,23 @@
 [Reflection](https://github.com/heytoshi/Shortest-Path/blob/master/PORTFOLIO.md)
 
 [More Details](https://github.com/heytoshi/Shortest-Path/blob/master/README.md)
+
+***
+
+### Chat Client & Chat Server
+
+#### Group/Invidiual Project
+
+*College-Wide Learning Goals*
+
++ Collaboration
+
+*Computer Science Learning Goals* 
+
++ To	attain	a	system	level	understanding	of	the	computer
+
+[Reflection](https://github.com/heytoshi/ChatRoomProject/blob/master/PORTFOLIO.md)
+
+[More Details](https://github.com/heytoshi/ChatRoomProject/blob/master/README.md)
 
 ***
