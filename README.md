@@ -3,9 +3,9 @@
 
 ***
 
-###2D-Platformer-Web Application 
+### 2D-Platformer-Web Application 
 
-####(Individual Project)
+#### (Individual Project)
 
 *College-Wide Learning Goals*
 
