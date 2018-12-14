@@ -4,7 +4,9 @@
 ***
 
 ###2D-Platformer-Web Application 
+
 ####(Individual Project)
+
 *College-Wide Learning Goals*
 
 + Creativity
