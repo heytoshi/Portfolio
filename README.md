@@ -89,7 +89,7 @@ group	setting
 
 ***
 
-### An interpreter for Scheme
+### An Interpreter for Scheme
 
 #### Group Assignment
 
@@ -108,7 +108,7 @@ group	setting
 
 ***
 
-### RTMP Live Stremaing Media Application
+### RTMP Live Streaming-Android Application
 
 #### Capstone Project
 
