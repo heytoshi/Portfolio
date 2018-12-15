@@ -107,3 +107,19 @@ group	setting
 ***
 
 ## Non-Computer Science Assignments
+
+***
+
+### Globalization-Reduce Feminization of Poverty
+
+#### Individual Assignment
+
+*College-Wide Learning Goals*
+
++ Global Responsibility
+
+[Artifact](https://drive.google.com/file/d/1Rp3frbG2bybt-UdKbcXedIy36jq37IP4/view?usp=sharing)
+
+[Reflection](https://docs.google.com/document/d/1X4W-mzjdFFsWIgsREhMNo2C0lpevlVDnIm1bQOpJwYc/edit?usp=sharing)
+
+***
