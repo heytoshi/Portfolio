@@ -1,5 +1,6 @@
 # Portfolio
 
+## Computer Science Assignments
 
 ***
 
@@ -104,3 +105,5 @@ group	setting
 [More Details](https://github.com/heytoshi/An-interpreter-for-Scheme/blob/master/README.md)
 
 ***
+
+## Non-Computer Science Assignments
