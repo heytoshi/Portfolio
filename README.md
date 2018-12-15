@@ -28,7 +28,7 @@
 
 ### 3D-MazeRunner-Game for Windows
 
-#### Group Project/Individual
+#### Group/Individual Project
 
 *College-Wide Learning Goals*
 
