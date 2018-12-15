@@ -1,5 +1,6 @@
 # Portfolio
 
+
 ## Computer Science Assignments
 
 ***
@@ -127,6 +128,9 @@ group	setting
 [More Details](https://github.com/heytoshi/SeniorProject/blob/master/README.md)
 
 ***
+
+
+
 
 ## Non-Computer Science Assignments
 
