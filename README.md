@@ -1,5 +1,6 @@
 # Portfolio
 
+[Resume](https://drive.google.com/file/d/1_NvxfSSQ6Fl2cHNCnav29oYv9lppryvb/view?usp=sharing)
 
 ## Computer Science Assignments
 
