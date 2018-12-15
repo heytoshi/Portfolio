@@ -106,6 +106,28 @@ group	setting
 
 ***
 
+### RTMP Live Stremaing Media Application
+
+#### Capstone Project
+
+*College-Wide Learning Goals*
+
++ Critical Thinking
+
+*Computer Science Learning Goals* 
+
++ To	understand	the	concepts	and	techniques	of software	design
++ To	attain	a	system	level	understanding	of	the	computer
++ To	acquire	significant	project	experience	working	both	individually	and	in	a	
+ group	setting
++ To	develop	effective	problem	solving	skills
+
+[Reflection](https://github.com/heytoshi/SeniorProject/blob/master/PORTFOLIO.md)
+
+[More Details](https://github.com/heytoshi/SeniorProject/blob/master/README.md)
+
+***
+
 ## Non-Computer Science Assignments
 
 ***
