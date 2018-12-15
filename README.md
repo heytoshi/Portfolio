@@ -17,6 +17,8 @@
 *Computer Science Learning Goals* 
  
  + To	understand the concepts	and techniques of software design
+ 
+[Artifact](https://github.com/heytoshi/2D-Platformer/blob/master/src/Collision2D.elm)
 
 [Reflection](https://github.com/heytoshi/2D-Platformer/blob/master/PORTFOLIO.md)
 
@@ -63,6 +65,8 @@
 
 + To	develop	effective	problem	solving	skills
 
+[Artifact](https://github.com/heytoshi/Shortest-Path/blob/master/FindPath.ipynb)
+
 [Reflection](https://github.com/heytoshi/Shortest-Path/blob/master/PORTFOLIO.md)
 
 [More Details](https://github.com/heytoshi/Shortest-Path/blob/master/README.md)
@@ -83,6 +87,8 @@
 + To	acquire	significant	project	experience	working	both	individually	and	in	a	
 group	setting
 
+[Artifact](https://github.com/heytoshi/ChatRoomProject)
+
 [Reflection](https://github.com/heytoshi/ChatRoomProject/blob/master/PORTFOLIO.md)
 
 [More Details](https://github.com/heytoshi/ChatRoomProject/blob/master/README.md)
@@ -101,6 +107,8 @@ group	setting
 
 + To	understand	the	concepts	and	techniques	of	object-oriented software	design.
 + To	develop	effective	problem	solving	skills.
+
+[Artifact](https://github.com/heytoshi/An-interpreter-for-Scheme/blob/master/expr-4.scala)
 
 [Reflection](https://github.com/heytoshi/An-interpreter-for-Scheme/blob/master/PORTFOLIO.md)
 
@@ -123,6 +131,8 @@ group	setting
 + To	acquire	significant	project	experience	working	both	individually	and	in	a	
  group	setting
 + To	develop	effective	problem	solving	skills
+
+[Artifact](https://github.com/heytoshi/SeniorProject)
 
 [Reflection](https://github.com/heytoshi/SeniorProject/blob/master/PORTFOLIO.md)
 
