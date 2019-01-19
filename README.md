@@ -6,7 +6,7 @@
 
 ***
 
-### 2D-Platformer-Web Application 
+### 2D-Platformer-Web Application | ELM
 
 #### Individual Project
 
@@ -26,7 +26,7 @@
 
 ***
 
-### 3D-MazeRunner-Game for Windows
+### 3D-MazeRunner-Game for Windows | Unity 3D
 
 #### Group/Individual Project
 
@@ -53,7 +53,7 @@
 
 ***
 
-### Shortest Path Algorithm
+### Shortest Path Algorithm | Python
 
 #### Individual Assignment
 
@@ -73,7 +73,7 @@
 
 ***
 
-### Chat Client & Chat Server
+### Chat Client & Chat Server | Java, TCP/IP
 
 #### Group/Invidiual Project
 
@@ -95,7 +95,7 @@ group	setting
 
 ***
 
-### An Interpreter for Scheme
+### An Interpreter for Scheme | Scala
 
 #### Group Assignment
 
@@ -116,7 +116,7 @@ group	setting
 
 ***
 
-### RTMP Live Streaming-Android Application
+### RTMP Live Streaming-Android Application | Firebase, Java, XML, TCP/IP 
 
 #### Capstone Project
 
