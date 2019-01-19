@@ -1,6 +1,6 @@
 # Portfolio
 
-[Resume](https://drive.google.com/file/d/1o5fenOlmuC7sce68OFEbAS0zcIMQ31rl/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1tqOYmrmEQsM2h5CVhXANj56h9XE2Nr3W/view?usp=sharing)
 
 ## Computer Science Assignments
 
